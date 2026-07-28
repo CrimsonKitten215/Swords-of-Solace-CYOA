@@ -9,3 +9,5 @@ This is the PUBLIC version – for people given access to the private version, u
 
 ## CREDITS:
 Me, myself, and I!
+
+CURRENTLY UNDER GREAT CHANGES! THE FLOWCHART IS VERY BEHIND!
