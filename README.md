@@ -1,7 +1,7 @@
 # Swords of Solace CYOA
 A text-based CYOA about a teenager who finds some really annoying swords.
 
-Currently a WIP, and written up to chapter 5.
+Currently a WIP, and written up to chapter 5. To play, run the SoS.html file.
 
 There is a flowchart of the routes attached, if you want to use it, though it's recommended to play without first and only use it later to have an easier time finding other routes.
 
